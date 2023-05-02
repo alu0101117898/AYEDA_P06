@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/P06.dir/main.cpp.o  -o P06 

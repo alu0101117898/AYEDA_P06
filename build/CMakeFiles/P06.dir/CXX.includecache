@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/e/Clase/AyEDA/p6/AB.h
+iostream
+-
+queue
+-
+NodoB.h
+/mnt/e/Clase/AyEDA/p6/NodoB.h
+
+/mnt/e/Clase/AyEDA/p6/ABB.h
+AB.h
+/mnt/e/Clase/AyEDA/p6/AB.h
+
+/mnt/e/Clase/AyEDA/p6/AVL.h
+ABB.h
+/mnt/e/Clase/AyEDA/p6/ABB.h
+
+/mnt/e/Clase/AyEDA/p6/NodoB.h
+
+/mnt/e/Clase/AyEDA/p6/main.cpp
+iostream
+-
+ABB.h
+/mnt/e/Clase/AyEDA/p6/ABB.h
+AVL.h
+/mnt/e/Clase/AyEDA/p6/AVL.h
+

@@ -1,0 +1,3 @@
+/mnt/e/Clase/AyEDA/p6/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/Clase/AyEDA/p6/build/CMakeFiles/edit_cache.dir
+/mnt/e/Clase/AyEDA/p6/build/CMakeFiles/P06.dir
